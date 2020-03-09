@@ -1,0 +1,17 @@
+.user-greeting {
+    margin: 1.5rem;
+    font-size: 1.5rem;
+    padding: 1rem 2rem;
+    background-color: rgb(194, 167, 133);
+    display: inline-block;
+    width: 90%;
+}
+.btn-logout {
+    float: right;
+}
+.form-container, .filter-container{
+    margin: 1rem 3rem;
+}
+.filter-container Button {
+    margin: .2rem;
+}

@@ -1,0 +1,10 @@
+.list-container {
+   margin: 1rem 3rem;
+}
+.list-item {
+    font-size: 1rem;
+    margin: .1rem .1rem;
+    padding: .1rem .1rem ;
+    background-color: rgb(233, 246, 247);
+    justify-content: space-between;
+}
